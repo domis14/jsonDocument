@@ -1,0 +1,201 @@
+{
+  "plan-zajec": {
+    "-typ": "G",
+    "-id": "109171",
+    "-nazwa": "KrDUIs1011",
+    "-od": "2017-04-11",
+    "-do": "2017-04-25",
+    "okres": [
+      {
+        "-od": "2017-04-11",
+        "-do": "2017-04-25",
+        "-nazwa": "2017-04-11 do 2017-04-25",
+        "-wybrany": "tak"
+      },
+      {
+        "-od": "2016-09-30",
+        "-do": "2017-02-19",
+        "-nazwa": "2016-09-30 do 2017-02-19"
+      },
+      {
+        "-od": "2017-02-20",
+        "-do": "2017-09-30",
+        "-nazwa": "2017-02-20 do 2017-09-30"
+      }
+    ],
+    "zajecia": [
+      {
+        "termin": "2017-04-11",
+        "dzien": "Wt",
+        "od-godz": "09:35",
+        "do-godz": "11:15",
+        "przedmiot": "Bogate aplikacje internetowe",
+        "typ": "wykład",
+        "nauczyciel": {
+          "-moodle": "-218",
+          "#text": "dr Janusz Stal"
+        },
+        "sala": "Paw.F 107"
+      },
+      {
+        "termin": "2017-04-11",
+        "dzien": "Wt",
+        "od-godz": "11:20",
+        "do-godz": "13:00",
+        "przedmiot": "Bogate aplikacje internetowe",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-218",
+          "#text": "dr Janusz Stal"
+        },
+        "sala": "Paw.A 122 lab. Vista,Office10"
+      },
+      {
+        "termin": "2017-04-11",
+        "dzien": "Wt",
+        "od-godz": "13:05",
+        "do-godz": "14:45",
+        "przedmiot": "Marketing i handel elektroniczny",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-908",
+          "#text": "dr Mariusz Kuziak"
+        },
+        "sala": "Bibl. 441"
+      },
+      {
+        "termin": "2017-04-11",
+        "dzien": "Wt",
+        "od-godz": "16:30",
+        "do-godz": "18:05",
+        "przedmiot": "Programowanie kreatywne",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.A 117 lab. Vista,Office07"
+      },
+      {
+        "termin": "2017-04-11",
+        "dzien": "Wt",
+        "od-godz": "18:10",
+        "do-godz": "19:45",
+        "przedmiot": "Modelowanie i symulacja komputerowa",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.A 117 lab. Vista,Office07"
+      },
+      {
+        "termin": "2017-04-19",
+        "dzien": "Śr",
+        "od-godz": "09:35",
+        "do-godz": "11:15",
+        "przedmiot": "Metody optymalizacji procesów",
+        "typ": "wykład",
+        "nauczyciel": {
+          "-moodle": "-1034",
+          "#text": "prof. UEK Paweł Lula"
+        },
+        "sala": "Bibl. 442"
+      },
+      {
+        "termin": "2017-04-20",
+        "dzien": "Cz",
+        "od-godz": "14:50",
+        "do-godz": "16:25",
+        "przedmiot": "Metody optymalizacji procesów",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-2928",
+          "#text": "mgr Przemysław Jaśko"
+        },
+        "sala": "Paw.A 118 lab. Vista,Office07"
+      },
+      {
+        "termin": "2017-04-20",
+        "dzien": "Cz",
+        "od-godz": "16:30",
+        "do-godz": "19:45",
+        "przedmiot": "Język obcy",
+        "typ": "ćwiczenia"
+      },
+      {
+        "termin": "2017-04-24",
+        "dzien": "Pn",
+        "od-godz": "18:10",
+        "do-godz": "19:45",
+        "przedmiot": "Język obcy",
+        "typ": "ćwiczenia"
+      },
+      {
+        "termin": "2017-04-25",
+        "dzien": "Wt",
+        "od-godz": "09:35",
+        "do-godz": "11:15",
+        "przedmiot": "Bogate aplikacje internetowe",
+        "typ": "wykład",
+        "nauczyciel": {
+          "-moodle": "-218",
+          "#text": "dr Janusz Stal"
+        },
+        "sala": "Paw.F 107"
+      },
+      {
+        "termin": "2017-04-25",
+        "dzien": "Wt",
+        "od-godz": "11:20",
+        "do-godz": "13:00",
+        "przedmiot": "Bogate aplikacje internetowe",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-218",
+          "#text": "dr Janusz Stal"
+        },
+        "sala": "Paw.A 122 lab. Vista,Office10"
+      },
+      {
+        "termin": "2017-04-25",
+        "dzien": "Wt",
+        "od-godz": "13:05",
+        "do-godz": "14:45",
+        "przedmiot": "Marketing i handel elektroniczny",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-908",
+          "#text": "dr Mariusz Kuziak"
+        },
+        "sala": "Bibl. 441"
+      },
+      {
+        "termin": "2017-04-25",
+        "dzien": "Wt",
+        "od-godz": "16:30",
+        "do-godz": "18:05",
+        "przedmiot": "Programowanie kreatywne",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.A 117 lab. Vista,Office07"
+      },
+      {
+        "termin": "2017-04-25",
+        "dzien": "Wt",
+        "od-godz": "18:10",
+        "do-godz": "19:45",
+        "przedmiot": "Modelowanie i symulacja komputerowa",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.A 117 lab. Vista,Office07"
+      }
+    ]
+  }
+}
